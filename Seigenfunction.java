@@ -1,4 +1,4 @@
-public class sinx{
+public class Seigenfunction{
      public static void main(String[] args) {
          System.out.println("This class is to calculate sinx");
 
